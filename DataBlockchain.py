@@ -6,7 +6,7 @@ import os
 # Datafile's root
 racines = {
         'C:\\Users\\antoine\\Desktop\\Polytechnique\\Binet\\X Finance\\Cryptocurrencies exchange rate' :
-            'C:/Users/antoine/Desktop/Polytechnique/Binet/X Finance/Cryptocurrencies exchange rate/Data/Data_Blockchain/'
+            'C:/Users/antoine/Desktop/Polytechnique/Binet/X Finance/Cryptocurrencies exchange rate/Data/Shared Data/Data_Blockchain/'
            }
 
 racine = racines[os.getcwd()]

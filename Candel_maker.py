@@ -28,7 +28,7 @@ import time
 # Datafile's root
 racines = {
         'C:\\Users\\antoine\\Desktop\\Polytechnique\\Binet\\X Finance\\Cryptocurrencies exchange rate' :
-            'C:/Users/antoine/Desktop/Polytechnique/Binet/X Finance/Cryptocurrencies exchange rate/Data/'
+            'C:/Users/antoine/Desktop/Polytechnique/Binet/X Finance/Cryptocurrencies exchange rate/Data/Ignored Data/'
            }
 
 racine = racines[os.getcwd()]
